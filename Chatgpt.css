@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+
+.Button_style{
+    border-radius: 1.5rem;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    height: 2rem;
+    width: 7.5rem;
+}
+
+.Type_balk{
+    
+}
